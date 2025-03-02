@@ -1,6 +1,6 @@
 # Automated Login Test with Playwright
 
-This guide explains how to set up and run an automated login test using Playwright.
+This guide explains how to set up and run an automated login test using Playwright
 
 ## Prerequisites
 1. Install Node.js.
